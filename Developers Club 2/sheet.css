@@ -1,0 +1,27 @@
+.color{
+
+      background-color: rgb(59,59, 105);
+      
+    
+    }
+ .footer{
+
+      padding-left: 20px;
+    }
+
+.sandip{
+
+    background-color: rgb(59, 59, 105);
+}
+
+.maps{
+
+    
+  display: block;
+  margin-left:3%;
+  margin-right: 3%;
+  width:94%;
+  height: 50vh;
+  
+  
+}
