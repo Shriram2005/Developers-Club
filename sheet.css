@@ -1,16 +1,24 @@
+.footer {
+  padding-left: 20px;
+}
 
-.footer{
-      padding-left: 20px;
-    }
-
-.maps{
-
-    
+.maps {
   display: block;
-  margin-left:3%;
-  margin-right: 3%;
-  width:94%;
+  width: 100%;
   height: 50vh;
-  
-  
+}
+.maps1 {
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.maps2 {
+  background-color: #040919;
+  /* padding-top: 10%; */
+}
+#mapt{
+  color: white;
+  font-style: normal;
+  text-transform: uppercase;
+  font-weight: 700;
 }
